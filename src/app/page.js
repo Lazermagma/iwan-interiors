@@ -13,7 +13,7 @@ export default function Home() {
           Portfolio <FileDownloadIcon />
         </a>
       </div>
-      <div className="mb-3 md:h-32 md:w-3/4 md:relative md:top-10">
+      <div className="mb-3 md:h-44 md:w-3/4 md:relative md:top-10">
         <Carousel>
           <img
             src="/assets/images/place_holder1.jpg"
