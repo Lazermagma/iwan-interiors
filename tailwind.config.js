@@ -11,7 +11,10 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        bellMT: ['"Bell MT"', "serif"], // Add Bell MT font
+      },
     },
   },
-  plugins: [],
+  plugins: [require("daisyui")],
 };
