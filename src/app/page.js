@@ -13,7 +13,7 @@ export default function Home() {
           Portfolio <FileDownloadIcon />
         </a>
       </div>
-      <div className="mb-3 md:h-32 md:w-3/4 md:relative md:top-10 ">
+      <div className="mb-3 md:h-32 md:w-3/4 md:relative md:top-10">
         <Carousel>
           <img
             src="/assets/images/place_holder1.jpg"
@@ -48,7 +48,7 @@ export default function Home() {
                 <span className="font-bold">IWAN Interiors</span> specializes in
                 creating exceptional interiors, fit-outs, and decorative
                 solutions. We blend creativity with functionality to transform
-                spaces into elegant environments that reflect our clients&apos;
+                spaces into elegant environments that reflect our clients&#39;
                 vision and style.
               </p>
             </div>
