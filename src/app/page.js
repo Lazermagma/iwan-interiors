@@ -5,11 +5,11 @@ import { Carousel } from "react-responsive-3d-carousel";
 
 export default function Home() {
   return (
-    <div className="h-full w-full flex flex-col  bg-[#1E1E1E]">
+    <div className="h-full w-full flex flex-col bg-[#1E1E1E]">
       <div className="flex md:flex-row flex-col justify-between items-center px-24 pt-20">
         <img src="assets/images/Header_logo.png" className=" " />
 
-        <a className="btn mt-6  md:btn-md md:w-60 md:mr-8   rounded-full">
+        <a className="btn mt-6 md:btn-md md:w-60 md:mr-8 rounded-full">
           Portfolio <FileDownloadIcon />
         </a>
       </div>
@@ -38,7 +38,7 @@ export default function Home() {
         </Carousel>
       </div>
       <div
-        className="flex md:flex-row flex-col w-full items-stretch "
+        className="flex md:flex-row flex-col w-full items-stretch"
         id="lastitems"
       >
         <div className="flex flex-col mt-14 md:w-3/4 justify-end">
@@ -73,12 +73,12 @@ export default function Home() {
               </p>
             </div>
           </div>
-          <div className="bg-[#4B4B4B] md:relative font-bellMT h-16 flex flex-col md:flex-row justify-evenly items-center text-[#9F9E9E]  w-full md:w-[101%]">
+          <div className="bg-[#4B4B4B] md:relative font-bellMT h-16 flex flex-col md:flex-row justify-evenly items-center text-[#9F9E9E] w-full md:w-[101%]">
             <p>info@iwaninteriors.com</p>
-            <p>Full website coming soon. Stay tuned!</p>
+            <p>Full website coming soon. Stay tuned!</p>
           </div>
         </div>
-        <div className="w-1/4 flex-shrink-0  ">
+        <div className="w-1/4 flex-shrink-0">
           <img
             src="/assets/images/pattern.png"
             className="w-full h-full object-cover md:flex hidden"
