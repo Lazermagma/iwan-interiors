@@ -48,7 +48,7 @@ export default function Home() {
                 <span className="font-bold">IWAN Interiors</span> specializes in
                 creating exceptional interiors, fit-outs, and decorative
                 solutions. We blend creativity with functionality to transform
-                spaces into elegant environments that reflect our clients'
+                spaces into elegant environments that reflect our clients&apos;
                 vision and style.
               </p>
             </div>
